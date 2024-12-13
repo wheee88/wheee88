@@ -1,23 +1,5 @@
-## Hwanhee Cho <a id="Laboratory">
-## Hi there 👋
-
-<!--
-**wheee88/wheee88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-![wave](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&text=WAVE)
+![wave](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&text=wheee88's&#32;Lab)
+## Hwanhee Cho <a id="wave">
+- 📫 How to reach me: hcho88@krri.re.kr
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wheee88&show_icons=true&theme=테마)

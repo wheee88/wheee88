@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Hwanhee Cho <a id="wave">
+
+![wave](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&text=WAVE)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wheee88&show_icons=true&theme=테마)

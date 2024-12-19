@@ -8,9 +8,10 @@
   - Railway Power Supply Systems (C)
   - Train Modeling (C)
   - Battery Modeling (Python)
-  - OPAL-RT (HILS)
+  - Tools : PSCAD, OPAL-RT (HILS)
  
   (Before)
   - Power systems stability & control (Transmission side)
   - Power systems oscillation
   - Power systems measurement based approaches (PMUs)
+  - Tools : PSS/E, DSATools

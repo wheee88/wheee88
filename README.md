@@ -2,3 +2,4 @@
 
 ## Hwanhee Cho <a id="wave">
 - E-mail 📫: hcho88@krri.re.kr
+- Related Works : Railway Power Supply Systems (C & Python), OPAL-RT (HILS)

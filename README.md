@@ -2,4 +2,14 @@
 
 ## Hwanhee Cho <a id="wave">
 - E-mail 📫: hcho88@krri.re.kr
-- Related Works : Railway Power Supply Systems (C & Python), OPAL-RT (HILS)
+- Related Works :
+  (Now)
+  - Railway Power Supply Systems (C)
+  - Train Modeling (C)
+  - Battery Modeling (Python)
+  - OPAL-RT (HILS)
+ 
+  (Before)
+  - Power systems stability & control (Transmission side)
+  - Power systems oscillation
+  - Power systems measurement based approaches (PMUs)

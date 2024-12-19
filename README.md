@@ -4,13 +4,13 @@
 - E-mail 📫: hcho88@krri.re.kr
 - Related Works :
   
-  (Now)
+  (Now) Railway Research
   - Railway Power Supply Systems (C)
-  - Train Modeling (C)
+  - Railway Vehicle Modeling (C)
   - Battery Modeling (Python)
   - Tools : PSCAD, OPAL-RT (HILS)
  
-  (Before)
+  (Before) Power Systems Reserch
   - Power systems stability & control (Transmission side)
   - Power systems oscillation
   - Power systems measurement based approaches (PMUs)

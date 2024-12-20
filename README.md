@@ -6,8 +6,8 @@
   
   (Now) Railway Research
   - Railway Traction Power Supply Systems (C language)
-  - Railway Vehicle Modeling (C language)
-  - Battery Modeling (Python) - Real-time Charge & Discharge, SoH
+  - Railway Vehicle Modeling & Control (C language)
+  - Battery Modeling & Control (Python) - Real-time Charge & Discharge, SoH
   - Tools : PSCAD, **OPAL-RT (HILS)**
 
     <img src="https://www.opal-rt.com/wp-content/uploads/2023/03/op5707XG-and-scope-with-button-1030x287.png" width="400" height="123">

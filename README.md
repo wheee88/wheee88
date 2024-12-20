@@ -7,7 +7,7 @@
   (Now) Railway Research
   - Railway Power Supply Systems (C)
   - Railway Vehicle Modeling (C)
-  - Battery Modeling (Python)
+  - Battery Modeling (Python) - Real-time Charge & Discharge, SoH
   - Tools : PSCAD, OPAL-RT (HILS)
  
   (Before) Power Systems Reserch
